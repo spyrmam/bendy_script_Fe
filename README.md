@@ -175,8 +175,8 @@ CV="Blue"
 	text.Text = ""
 	s = Instance.new("Sound",char.Head)
 	s.Name = "BendyMusic"
-	s.SoundId = "rbxassetid://746781548"
-	s.Pitch = 1
+	s.SoundId = "rbxassetid://156446"
+	s.Pitch = 0.55
 	if LoudVolume == true then
 	s.Volume = 5
 	else
